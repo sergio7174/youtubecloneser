@@ -1,4 +1,4 @@
-<h1 align ="center" > 🏆 MERN YouTube Clone Ser  </h1>
+<h1 align ="center" > 🎥 MERN YouTube Clone Ser  </h1>
 <h5  align ="center"> 
 Fullstack open source Ecommerce application made with MongoDB, Express, React(JSX) & Nodejs (MERN) </h5>
 <br>
